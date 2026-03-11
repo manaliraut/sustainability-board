@@ -6,6 +6,7 @@ The Sustainability Billing Dashboard is a React-based web application designed t
 The project focuses on improving transparency and decision-making by transforming raw billing and sustainability data into clear and interactive visual insights.
 
 ---
+<img width="1698" height="807" alt="Screenshot 2026-03-11 at 1 45 02 PM" src="https://github.com/user-attachments/assets/2577ac66-1b24-4b8f-a656-ce7ceb238d3d" />
 
 ## Inspiration
 
@@ -26,6 +27,7 @@ Inspired by this concept, the Sustainability Billing Dashboard aims to bring sim
 - View upcoming sustainability events
 - Schedule and manage programs
 - Organize sustainability initiatives in a visual calendar
+<img width="1697" height="825" alt="Screenshot 2026-03-11 at 1 45 18 PM" src="https://github.com/user-attachments/assets/dc8feb94-c080-490d-8629-14f46083ac22" />
 
 ### Data Visualization
 - Interactive graphs for sustainability billing analysis
@@ -36,6 +38,7 @@ Inspired by this concept, the Sustainability Billing Dashboard aims to bring sim
 - Clean and intuitive UI
 - Mobile-friendly and responsive layout
 - Easy navigation between modules
+<img width="1696" height="785" alt="Screenshot 2026-03-11 at 1 45 41 PM" src="https://github.com/user-attachments/assets/d9243f3b-9b9e-44d1-811b-b9c6a810c417" />
 
 ---
 
